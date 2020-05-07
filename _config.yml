@@ -1,6 +1,6 @@
 title: Resume
 url: "https://whing.cn/resume"
-baseurl: "/researcher"
+baseurl: "/resume"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
