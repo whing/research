@@ -1,6 +1,6 @@
 title: My Research
-url: "https://whing.cn/resume"
-baseurl: "/resume"
+url: "https://whing.cn/research"
+baseurl: "/research"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
