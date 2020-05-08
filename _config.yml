@@ -1,4 +1,4 @@
-title: Resume
+title: My Research
 url: "https://whing.cn/resume"
 baseurl: "/resume"
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/research/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
