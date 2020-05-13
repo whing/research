@@ -1,4 +1,4 @@
-title: My Research | www.whing.cn
+title: My Research
 url: "http://whing.cn/research"
 baseurl: "/research"
 
@@ -20,5 +20,5 @@ nav:
    link: "/about/"
  - name: "Resume"
    link: "/resume/"
- - name: "Contact"
-   link: "contact"
+ - name: "Blog"
+   link: "/blog/"
