@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Introduction
 
 <img class="profile-picture" src="sherlock.jpg">
 
