@@ -7,11 +7,19 @@ permalink: /index
 
 <img class="profile-picture" src="I.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am Huang Wu.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I received the master’s degree in statistics from Anqing Normal University. I work on artificial intelligence in education currently. My current research interests include computer vision, human action recognition, and deep learning. [You can see my simple academic introduction on ieeexplore](https://ieeexplore.ieee.org/author/37086242899).
 
-## Research Interest
+My research work, papers and related codes during my postgraduate period are hosted on GitHub for your reference.
+
+You can find all my published papers on [GitHub called KAR_Articles](https://github.com/vic9527/KAR_Articles)
+
+You can find the full source code on [GitHub called KAR_Tools](https://github.com/vic9527/KAR_Tools)
+
+You can also find the resources I use in the lab on [GitHub called 苏门子弟](https://github.com/bysu2017)
+
+## Research
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
@@ -36,11 +44,13 @@ Here is a horizontal rule
 
 ---
 
-Here is a blockquote
+## slogan
 
-> To a great mind, nothing is little
+> No interest, No progress.
 
-## References
+## Thanks
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Benyue Su: received the Ph.D. degree from the School of Computer and Information, Hefei University of Technology, China, in 2007. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37664042300)]
+* Min Sheng: received the Ph.D. degree from the School of Computer and Information, Hefei University of Technology, China, in 2009. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086246418)]
+* Chuansheng Shen: received the Ph.D. degree from the University of Science and Technology of China, in 2012. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086822315)]
+* Ali Abdullah Yahya: Anqing Normal University, Anqing, China. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086076552)]
