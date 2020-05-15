@@ -44,13 +44,13 @@ Here is a horizontal rule
 
 ---
 
-## slogan
+## Slogan
 
 > No interest, No progress.
 
 ## Thanks
 
-* Benyue Su: received the Ph.D. degree from the School of Computer and Information, Hefei University of Technology, China, in 2007. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37664042300)]
-* Min Sheng: received the Ph.D. degree from the School of Computer and Information, Hefei University of Technology, China, in 2009. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086246418)]
-* Chuansheng Shen: received the Ph.D. degree from the University of Science and Technology of China, in 2012. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086822315)]
-* Ali Abdullah Yahya: Anqing Normal University, Anqing, China. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086076552)]
+* **Benyue Su:** received the Ph.D. degree from the School of Computer and Information, Hefei University of Technology, China, in 2007. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37664042300)]
+* **Min Sheng:** received the Ph.D. degree from the School of Computer and Information, Hefei University of Technology, China, in 2009. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086246418)]
+* **Chuansheng Shen:** received the Ph.D. degree from the University of Science and Technology of China, in 2012. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086822315)]
+* **Ali Abdullah Yahya:** Anqing Normal University, Anqing, China. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086076552)]
