@@ -7,17 +7,7 @@ permalink: /index
 
 <img class="profile-picture" src="I.jpg">
 
-Hi! I am Huang Wu.
-
-Hi! I am Huang Wu.
-
-Hi! I am Huang Wu.
-
-Hi! I am Huang Wu.
-
-Hi! I am Huang Wu.
-
-I received the master’s degree in statistics from Anqing Normal University. I work on artificial intelligence in education currently. My current research interests include computer vision, human action recognition, and deep learning. [You can see my simple academic introduction on ieeexplore](https://ieeexplore.ieee.org/author/37086242899).
+Hi! I am Huang Wu, received the master’s degree in statistics from Anqing Normal University. I work on artificial intelligence in education currently. My current research interests include computer vision, human action recognition, and deep learning. [You can see my simple academic introduction on ieeexplore](https://ieeexplore.ieee.org/author/37086242899).
 
 My research work, papers and related codes during my postgraduate period are hosted on GitHub for your reference.
 
