@@ -9,14 +9,17 @@ permalink: /index
 
 Hi! I am Huang Wu, received the master’s degree in statistics from Anqing Normal University. I work on artificial intelligence in education currently. My current research interests include computer vision, human action recognition, and deep learning. [You can see my simple academic introduction on ieeexplore](https://ieeexplore.ieee.org/author/37086242899).
 
-My research work, papers and related codes during my postgraduate period are hosted on GitHub for your reference.
-You can find all my published papers on [GitHub called KAR_Articles](https://github.com/vic9527/KAR_Articles)
-You can find the full source code on [GitHub called KAR_Tools](https://github.com/vic9527/KAR_Tools)
-You can also find the resources I use in the lab on [GitHub called 苏门子弟](https://github.com/bysu2017)
+**My research work, papers and related codes during my postgraduate period are hosted on GitHub for your reference.**
+
+* You can find all my published papers on [GitHub called KAR_Articles](https://github.com/vic9527/KAR_Articles)
+
+* You can find the full source code on [GitHub called KAR_Tools](https://github.com/vic9527/KAR_Tools)
+
+* You can also find the resources I use in the lab on [GitHub called 苏门子弟](https://github.com/bysu2017)
 
 ## Research
 
-My research work mainly has the following 2 innovation points.
+**My research work mainly has the following 2 innovation points.**
 
 1) A method of human motion recognition based on hierarchical strategy is proposed. According to the hierarchical structure of human anatomy and the physical characteristics of human kinematics, combined with the thickness of action granularity, the method can recognize human actions in different layers, extract different motion features and select appropriate classifiers in each layer.
 
@@ -24,17 +27,37 @@ My research work mainly has the following 2 innovation points.
 
 ## Publications
 
-1. Human action recognition method based on hierarchical framework via Kinect skeleton data 
-(DOI: 10.1109/ICMLC.2017.8107747, EI: 20180904842839)
+**1. Accurate Hierarchical Human Actions Recognition from Kinect Skeleton Data** 
 
-2. Accurate Hierarchical Human Actions Recognition from Kinect Skeleton Data 
-(DOI: 10.1109/ACCESS.2019.2911705, SCI: 000466798900001)
+Info: IEEE Access - DOI: 10.1109/ACCESS.2019.2911705, SCI: 000466798900001
 
-3. Hierarchical Human Action Recognition with Self-Selection Classifiers via Skeleton Data 
-(DOI: 10.1088/0253-6102/70/5/633, SCI: 000451760400018)
+Link: https://ieeexplore.ieee.org/document/8693506
 
-4. 基于骨骼数据的人体动作识别方法研究
-（研究生优秀毕业论文）
+Download: 
+
+**2. Hierarchical Human Action Recognition with Self-Selection Classifiers via Skeleton Data** 
+
+Info: Communications in Theoretical Physics - DOI: 10.1088/0253-6102/70/5/633, SCI: 000451760400018
+
+Link: https://iopscience.iop.org/article/10.1088/0253-6102/70/5/633
+
+Download: 
+
+**3. Human action recognition method based on hierarchical framework via Kinect skeleton data** 
+
+Info: 2017 International Conference on Machine Learning and Cybernetics (ICMLC) - DOI: 10.1109/ICMLC.2017.8107747, EI: 20180904842839
+
+Link: https://ieeexplore.ieee.org/document/8107747
+
+Download: 
+
+**4. 基于骨骼数据的人体动作识别方法研究**
+
+信息：安庆师范大学研究生优秀毕业论文
+
+链接: 
+
+下载：
 
 ## Typography
 
