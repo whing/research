@@ -3,23 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [vic.woo@vip.163.com](mailto:vic.woo@vip.163.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+86-xxx xxxx xxxx](tel:+86-xxx xxxx xxxx)
 
 ---
 
-## Social
+## Address:
+
+> Shanghai, China. 
+>
+> As of May 15, 2020.
+
+---
+
+## Social:
 
 1. [Facebook](#)
 2. [Twitter](#)
