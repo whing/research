@@ -27,28 +27,28 @@ Hi! I am Huang Wu, received the master’s degree in statistics from Anqing Norm
 
 ## Publications
 
-1. **Accurate Hierarchical Human Actions Recognition from Kinect Skeleton Data** 
+**[1] Accurate Hierarchical Human Actions Recognition from Kinect Skeleton Data** 
 
 **Info:** IEEE Access - DOI: 10.1109/ACCESS.2019.2911705, SCI: 000466798900001
 
 **Link:** [https://ieeexplore.ieee.org/document/8693506](https://ieeexplore.ieee.org/document/8693506)
 [[PDF](https://github.com/vic9527/KAR_Articles/raw/master/2.IEEE-Access%EF%BC%9AAccurate%20Hierarchical%20Human%20Actions%20Recognition%20From%20Kinect%20Skeleton%20Data.pdf)]
 
-2. **Hierarchical Human Action Recognition with Self-Selection Classifiers via Skeleton Data** 
+**[2] Hierarchical Human Action Recognition with Self-Selection Classifiers via Skeleton Data** 
 
 **Info:** Communications in Theoretical Physics - DOI: 10.1088/0253-6102/70/5/633, SCI: 000451760400018
 
 **Link:** [https://iopscience.iop.org/article/10.1088/0253-6102/70/5/633](https://iopscience.iop.org/article/10.1088/0253-6102/70/5/633)
 [[PDF](https://github.com/vic9527/KAR_Articles/raw/master/3.CTP%EF%BC%9AHierarchical%20Human%20Action%20Recognition%20with%20Self-Selection%20Classifiers%20via%20Skeleton%20Data.pdf)]
 
-3. **Human action recognition method based on hierarchical framework via Kinect skeleton data** 
+**[3] Human action recognition method based on hierarchical framework via Kinect skeleton data** 
 
 **Info:** 2017 International Conference on Machine Learning and Cybernetics (ICMLC) - DOI: 10.1109/ICMLC.2017.8107747, EI: 20180904842839
 
 **Link:** [https://ieeexplore.ieee.org/document/8107747](https://ieeexplore.ieee.org/document/8107747)
 [[PDF](https://github.com/vic9527/KAR_Articles/raw/master/1.ICMLC2017%EF%BC%9AHuman%20action%20recognition%20method%20based%20%20on%20hierarchical%20framework%20via%20Kinect%20skeleton%20data.pdf)]
 
-4. **基于骨骼数据的人体动作识别方法研究**
+**[4] 基于骨骼数据的人体动作识别方法研究**
 
 **信息：** 安庆师范大学研究生优秀毕业论文
 
@@ -70,9 +70,6 @@ Date | Location | Target | Conference
 2016.10 | Anqing Normal University, Anqing | Listening Lecture | The 3rd Symposium on Intelligent Perception and Visual Media Computing
 2016.7 | University of science and technology of China, Hefei | Listening Lecture | The 5th Summer Course of "Computer Graphics", University of Science and Technology of China
 2016.4 | Anhui University, Hefei | Listening Lecture | The 12th ccf-cv advanced technology and application series report meeting
-
-
-
 
 Looking forward to more opportunities for learning and presentation...
 
