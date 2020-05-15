@@ -69,7 +69,7 @@ Date | Location | Target | Conference
 2017.3 | Beijing University of Aeronautics and Astronautics, Beijing | Listening Lecture | The 2017 national Deep Learning Technology Application Conference
 2016.10 | Anqing Normal University, Anqing | Listening Lecture | The 3rd Symposium on Intelligent Perception and Visual Media Computing
 2016.7 | University of science and technology of China, Hefei | Listening Lecture | The 5th Summer Course of "Computer Graphics", University of Science and Technology of China
-2016.4 | Anhui University, Hefei | Listening Lecture | The 12th ccf-cv advanced technology and application series report meeting
+2016.4 | Anhui University, Hefei | Listening Lecture | The 12th CCF-CV advanced technology and application series report meeting
 
 Looking forward to more opportunities for learning and presentation...
 
