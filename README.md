@@ -15,8 +15,6 @@ Hi! I am Huang Wu, received the master’s degree in statistics from Anqing Norm
 
 * You can find the full source code on GitHub called [[KAR_Tools](https://github.com/vic9527/KAR_Tools)].
 
-* You can also find the resources I use in the lab on GitHub called [[苏门子弟](https://github.com/bysu2017)].
-
 ## Research
 
 **My research work mainly has the following 2 innovation points.**
